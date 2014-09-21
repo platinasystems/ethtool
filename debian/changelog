@@ -1,9 +1,3 @@
-ethtool (1:3.16-1~bpo7+1) wheezy-backports-sloppy; urgency=medium
-
-  * Rebuild for wheezy-backports-sloppy.
-
- -- Matt Taggart <taggart@debian.org>  Fri, 24 Jul 2015 17:25:30 -0700
-
 ethtool (1:3.16-1) unstable; urgency=medium
 
   * New upstream release
