@@ -14,7 +14,7 @@ ethtool (1:5.4-1) unstable; urgency=medium
   * debian/rules: Configure with --disable-silent-rules by default
   * debian/control: Update Standards-Version to 4.4.1
 
- -- Ben Hutchings <ben@decadent.org.uk>  Thu, 30 Jan 2020 17:25:08 +0100
+ -- Kevin Paul Herbert <kph@platinasystems.com>  Thu, 30 Jan 2020 17:25:08 +0100
 
 ethtool (1:4.19-1) unstable; urgency=medium
 
